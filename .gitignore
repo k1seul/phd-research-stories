@@ -1,0 +1,9 @@
+# Local copies of papers (copyrighted; keep out of git)
+papers/
+*.pdf
+
+# OS / editor
+.DS_Store
+*.swp
+.vscode/
+.idea/
