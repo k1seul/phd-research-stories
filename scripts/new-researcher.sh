@@ -29,7 +29,7 @@ cp "$tpl/week-assignment.md" "$dest/assignments/week-1.md"
 cat > "$dest/reading-list.md" <<EOF
 # $name: Reading List
 
-Give every paper a stable ID (P01, P02, ...) in arXiv v1 order. Notes and running files refer to these IDs.
+Give every paper a stable ID (P01, P02, ...) in arXiv v1 order. Memos and optional notes or trackers refer to these IDs.
 
 | ID | arXiv v1 | Title | Authors (subject in **bold**) | Position | Venue | Tier | Week |
 |---|---|---|---|---|---|---|---|

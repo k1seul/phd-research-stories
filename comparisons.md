@@ -1,16 +1,15 @@
-# Cross-Researcher Comparisons
+# Cross-Researcher Comparisons (optional)
 
-Add one row per researcher after finishing their final synthesis. Fill each cell from that researcher's `synthesis/profile.md`. The table is only useful once there are two or more rows, so keep the cells short enough to scan.
+Use this after studying two or more researchers if comparison helps your own research decisions. Extract an existing conclusion from each `synthesis/story-essay.md`; no separate profile or new investigation is needed. This table is never a completion requirement for a researcher.
 
-| Researcher | PhD (years, place) | North-star question (one line) | # phases | Dominant research moves | First → last-author transition | Biggest pivot and its trigger | Thesis vs. lived story | One lesson I'm stealing |
-|---|---|---|---|---|---|---|---|---|
-| Chelsea Finn | Berkeley, 2014–2018 | | | | | | | |
+| Researcher | North-star question | Biggest pivot and its evidence | Thesis vs. chronology | One lesson and its limits |
+|---|---|---|---|---|
+| Chelsea Finn | | | | |
 
-## Patterns across researchers
+## Patterns to explore
 
-Fill this in once there are at least two rows. Some prompts:
+Choose a question when there is enough evidence to compare:
 
-- Do PhDs that end in a coherent thesis start coherent, or does the coherence only come at the end?
-- How long does the "exploration" phase last before a signature contribution appears?
-- What role do internships, new advisors, or new equipment play in the pivots?
-- When does each person start acting as a mentor, as visible in last-author papers?
+- How much coherence was visible at the start, and how much came from the final thesis framing?
+- Which changes in resources, collaborators, or technical tools made a pivot possible?
+- Which lesson would transfer to my setting, and which depended on their circumstances?

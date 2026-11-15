@@ -1,40 +1,23 @@
-# Phase N synthesis: <phase name> (<date range>)
+# Phase N memo: <phase name> (<date range>)
 
-Write this at the end of the week, after updating the running files. Aim for 600–1,000 words. Tag claims `[F]` / `[I]` / `[Q]`.
+This is the week's **one required written deliverable** for Weeks 1–5. Follow the assignment's focus, using these prompts as a guide. Bullets are fine; roughly half a page may be enough, and there is **no word minimum**.
 
-## Papers in this phase
-| ID | Title (short) | arXiv v1 | Subject's position | Move(s) |
-|---|---|---|---|---|
-| | | | | |
+Spend **60–90 minutes total on organizing and writing**, including optional paper notes, tables, or tracker work. Read at the assigned depth separately. Record a fact once and link to it elsewhere.
 
-## 1. The question of this phase
-(One or two sentences. Which question is this group of papers really asking?)
+## What changed?
 
-## 2. How the phase began
-What triggered it: a limitation of earlier work, a new resource, a new collaborator, a field trend? Give evidence.
+What question, method, or research direction changed? Cite a few paper IDs or source passages for the important observations. Distinguish `[F]` facts, `[I]` interpretations, and `[Q]` unresolved questions.
 
-## 3. What changed during the phase
-- Problem:
-- Method / toolbox:
-- People and roles:
+## What changed in my view?
 
-## 4. How the phase ended
-- What gets carried forward, and into which later papers?
-- What gets dropped? Why do you think so?
+A hypothesis update, a prediction check, or an uncertainty. In Week 1, write **2–3 initial hypotheses** here and preserve their original wording; use later memos for dated updates.
 
-## 5. Mini lineage map
-```mermaid
-graph LR
-  A[PXX short name] --> B[PYY short name]
-```
+## What might I use?
 
-## 6. Context check
-In 2–4 lines per context paper: what was the rest of the field doing, and how does this phase sit relative to it?
+A lesson for my research and its limits, if one stands out. Otherwise, leave a question to carry forward.
 
-## 7. Lessons
-| Specific observation | Transferable lesson | Would it apply to me? Why or why not? |
-|---|---|---|
-| | | |
+## Optional deep dive
 
-## 8. Questions to carry into next week
--
+Choose **zero or one** extra question from the assignment. A small table, a few connections, or a source-backed paragraph can replace corresponding prose. Leave this section unused if the memo uses the budget. Do not repeat it in multiple trackers.
+
+In the final week, use `synthesis/story-essay.md` and the final-story template **instead of this memo**. Empty tables and trackers never block completion.

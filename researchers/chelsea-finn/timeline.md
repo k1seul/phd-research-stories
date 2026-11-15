@@ -1,23 +1,9 @@
-# Timeline: Chelsea Finn
+# Timeline: Chelsea Finn (optional)
 
-One row per paper, sorted by **arXiv v1 date**. Update it every week. Mark the subject's position as `1st`, `co-1st`, `mid`, or `last`.
+Use `reading-list.md` for paper dates and authors. This file is only for a few events, overlaps, or transitions that help explain the story; no full paper catalog, venue audit, or annual authorship count is required. Update only when it changes your interpretation, within the weekly writing budget.
 
-| ID | arXiv v1 | Venue (verified?) | Short title | Position | Phase | Key co-authors | Notes |
-|---|---|---|---|---|---|---|---|
-| | | | | | | | |
+| Date / range | Event or transition | Evidence (paper IDs / sources) | Interpretation or open question |
+|---|---|---|---|
+| | | | |
 
-## Non-paper events
-Degree milestones, internships, advisor moves, awards, talks, lab or equipment changes.
-
-| Date | Event | Source |
-|---|---|---|
-| | | |
-
-## Observations
-- Bursts / gaps:
-- Parallel threads:
-- Author-position trend (count per year):
-
-| Year | 1st | co-1st | mid | last | Total |
-|---|---|---|---|---|---|
-| | | | | | |
+Tag important claims `[F]`, `[I]`, or `[Q]`. Link to the relevant weekly memo instead of copying its argument here.

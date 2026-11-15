@@ -1,9 +1,9 @@
-# [PXX] <Paper title> (skim)
+# [PXX] <Paper title> (optional skim note)
 
-- **Authors** (subject in **bold**, position: first / co-first / middle / last):
-- **arXiv v1 · venue**:
-- **Contribution in one sentence**:
-- **Which thread or phase does it belong to? What does it continue?**
-- **Who is new here?**
-- **Research move(s)**:
-- **Why it matters for the story** (1–3 lines, tagged `[F]`/`[I]`/`[Q]`):
+A supporting read does not require a separate note file. If a note helps, these bullets are enough; use `reading-list.md` for metadata.
+
+- Contribution in one sentence:
+- What it continues or changes (paper IDs):
+- Why it matters to this week's interpretation, or what remains uncertain:
+
+Tag important story claims `[F]` / `[I]` / `[Q]`. Leave the takeaway in the weekly memo instead if it is already there.

@@ -1,11 +1,11 @@
 # Chelsea Finn: Reading List
 
-Papers are numbered **P01–P36 in arXiv v1 order** and cover her first paper (Dec 2014) through the first half of 2019, just after the thesis. Notes and running files refer to these IDs.
+Papers are numbered **P01–P36 in arXiv v1 order** and cover her first paper (Dec 2014) through the first half of 2019, just after the thesis. Memos and optional notes or trackers refer to these IDs.
 
 - **Authors, titles, and arXiv v1 dates** were checked against arXiv metadata.
-- **Venues** without a mark come from the arXiv comment field. Those marked *(verify)* still need checking against the official proceedings, which is part of Week 1, Task 1.
+- **Venues** without a mark come from the arXiv comment field. Those marked *(verify)* are unverified. Check the official proceedings when a venue detail matters to your argument; a full metadata audit is optional.
 - **Position** is her position in the author list: `1st`, `co-1st` (equal contribution), `mid`, or `last`.
-- **Tier** sets the reading depth (see METHODOLOGY §3): **Core** gets a full note, **Supp.** a skim note, **Opt.** is optional.
+- **Tier** sets the reading depth (see METHODOLOGY §3): **Core** gets a full read, **Supp.** a skim, **Opt.** is optional. Separate note files are optional for every tier.
 
 Links are arXiv abstract pages. Download PDFs into `../../papers/`, which is git-ignored.
 
@@ -84,7 +84,7 @@ The full list continues past these papers. For a complete picture of 2019, searc
 
 ## Context papers (not by Finn)
 
-These are for reconstructing **what the field looked like at the time** (lens L7) and **what happened afterwards** (lens L8). Read the abstract and intro, then note in the week's synthesis what each tells you.
+These are for reconstructing **what the field looked like at the time** (lens L7) and **what happened afterwards** (lens L8). Read the abstract and intro; mention a context paper in the weekly memo when it changes your interpretation. No per-paper context write-up is required.
 
 | ID | Paper | Why it's here | Week |
 |---|---|---|---|
@@ -116,8 +116,8 @@ These are for reconstructing **what the field looked like at the time** (lens L7
 | Source | Use it for |
 |---|---|
 | Thesis front matter: acknowledgments, committee page (T1) | Undergrad adviser, internship, mentees, committee |
-| OpenReview pages for P11, P16, P17, P18, P21, P29, P33 | Reviews at the time (L8) |
-| Google Scholar / Semantic Scholar | Citation trajectories (L8); write down the date you checked |
+| OpenReview pages for P11, P16, P17, P18, P21, P29, P33 | Optional evidence about reception at the time (L8) |
+| Google Scholar / Semantic Scholar | Optional citation trajectories (L8); record the check date if used |
 | Project pages and code linked from the arXiv comments (e.g., `github.com/cbfinn/maml`) | Artifacts, release dates, what was made reusable |
 | Her BAIR blog post(s) from 2017–2018 (search the BAIR blog) | How she explained the work at the time (L9) |
 | ICML 2019 meta-learning tutorial by Finn & Levine | How she framed the field right after the PhD (L9) |

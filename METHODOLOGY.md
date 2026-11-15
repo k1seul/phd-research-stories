@@ -9,7 +9,7 @@ You need two layers of reading to answer it:
 - **Paper level**: what the paper claims, how it supports the claim, and where it falls short. This is ordinary careful reading.
 - **Story level**: why *this* problem, *then*, with *these* people; what it inherited and what it handed off. This layer is the point of the repo.
 
-Every assignment asks for both. Don't let the paper level crowd out the story level.
+Read at both levels, then capture the most useful story-level observation in the weekly memo. The lenses below are a menu of questions, not a form to complete for every paper. Separate paper notes and tracker updates are optional.
 
 ---
 
@@ -19,7 +19,7 @@ Each lens is a question you can put to any paper or to the whole PhD. The assign
 
 ### L1 · Timeline
 *When did things actually happen?*
-- Treat the **arXiv v1 date** as roughly when the work was finished. The venue date only tells you when it was accepted. The two can be a year apart.
+- Use the **arXiv v1 date** as a public chronology marker, not proof of when a project began or ended. Keep it separate from the publication year; use the reading list rather than copying every date into another table.
 - Look for **bursts** (several papers at once, often around a deadline), **gaps**, and **parallel threads** (unrelated topics running at the same time).
 - Group papers into **phases** by theme, then check whether the phases are actually sequential. They often overlap.
 
@@ -54,7 +54,7 @@ Look for recurring techniques or habits of thought, such as "differentiate throu
 
 ### L6 · People
 *Who did the work, and how did roles change?*
-- **Authorship conventions in ML**: the first author usually did most of the work, the last author is usually the senior or advising author, and `*` marks equal contribution. Track the subject's **author position over time** (first → co-first → middle → last).
+- **Authorship conventions in ML**: the first author usually did most of the work, the last author is usually the senior or advising author, and `*` marks equal contribution. Notice changes in the subject's **author position over time** (first → co-first → middle → last). Author order is a clue, not proof of an advising role or a person's contribution; use contribution statements and acknowledgments where available.
 - Track advisors, peer collaborators, mentees, internships, and visiting collaborators.
 - Read the **acknowledgments** of the thesis and of individual papers. They often contain facts you won't find anywhere else.
 
@@ -81,60 +81,70 @@ Look for recurring techniques or habits of thought, such as "differentiate throu
 
 Story-level analysis can drift into fan fiction. These rules keep it honest.
 
-1. **Tag your claims.** In notes and syntheses, mark statements as:
+1. **Separate evidence from inference.** In the weekly memo, tag the important story claims; there is no need to label every technical bullet:
    - `[F]` **Fact**, with a source (a paper, arXiv metadata, acknowledgments, a CV, a talk with timestamp).
    - `[I]` **Interpretation**: your reading of the evidence. Say what evidence it rests on.
    - `[Q]` **Open question**: something you'd like to know but can't confirm.
 2. **Prefer primary sources.** Use the papers (including older arXiv versions), thesis, acknowledgments, OpenReview threads, project pages, code repos, and the researcher's own talks and posts. Secondary profiles and interviews are fine, but label them as secondary.
 3. **Avoid hindsight bias.** Before judging a decision, ask *"what could they have known in month X?"* Use the context papers to reconstruct what the field looked like at that time.
 4. **Avoid hero narratives.** Papers are collaborations. Give collaborators, advisors, and the environment their share of the credit before attributing anything to individual brilliance.
-5. **Keep a list of things you were wrong about.** When a later week contradicts an earlier note, don't delete the note. Strike it through (`~~...~~`) and add the correction. Watching your own hypotheses change is part of the exercise.
+5. **Keep your initial hypotheses visible.** Write 2–3 in the first memo. Preserve their original wording and add dated updates in later memos when your view changes. No separate error log or hypothesis file is needed.
 
 ---
 
 ## 3. Reading protocol
 
-Papers in each reading list are tiered:
+Reading tiers and assigned papers stay the same. Writing is separate from reading depth: understanding a core paper does not require a completed note template.
 
-| Tier | Time | Template | What to do |
+| Tier | Reading time guide | What to read | Recording |
 |---|---|---|---|
-| **Core** | 2–3 h | [`paper-note.md`](templates/paper-note.md) | Full three-pass read (below) |
-| **Supporting** | 20–40 min | [`paper-skim.md`](templates/paper-skim.md) | Abstract, intro, figures, conclusion, author list |
-| **Context** | 10–20 min | a few lines in the week's synthesis | Abstract and intro only; note what it tells you about the field at the time |
-| **Optional** | — | — | Only if you have time or curiosity |
+| **Core** | 2–3 h; some papers need more | Full three-pass read below | Optional [short paper note](templates/paper-note.md), or your existing notes |
+| **Supporting** | 20–40 min | Abstract, intro, figures, conclusion, author list | Optional [skim note](templates/paper-skim.md); no separate file required |
+| **Context** | 10–20 min | Abstract and intro to reconstruct the field at the time | Mention only context that changes the weekly argument |
+| **Optional** | As curiosity allows | Only if useful | No completion requirement |
 
 **Three-pass read for core papers** (adapted from Keshav's *How to Read a Paper*):
 
-1. **Survey pass (≈15 min).** Title, abstract, intro, section headings, figures, conclusion. Write the one-sentence contribution *before* reading further.
-2. **Content pass (≈1–1.5 h).** Method and experiments. Can you explain the key idea without notation? Which experiments carry the claims?
-3. **Story pass (≈30 min).** Related work, footnotes, acknowledgments, author list, and the arXiv version history (`v1` vs. final). Look up the project page and code. This pass feeds the story-level sections of the note.
+1. **Survey pass (≈15 min).** Title, abstract, intro, section headings, figures, conclusion. Try stating the one-sentence contribution before reading further.
+2. **Content pass (≈1–1.5 h).** Method and experiments. Can you explain the key idea without notation? Which experiments carry the claims? Work through a derivation or toy example when that helps your understanding.
+3. **Story pass (≈30 min).** Related work, acknowledgments, author list, and relevant prior work. Check version history, project pages, or code when the assignment calls for them or a concrete question needs them. Capture a meaningful connection in the weekly memo rather than filling every lens.
 
-Name paper notes after the paper ID, e.g. `notes/P13-maml.md`.
+If you keep paper files, use IDs such as `notes/P13-maml.md`. Copying authors, dates, and venues from the reading list into every note is unnecessary.
 
----
+## 4. Optional analysis aids
 
-## 4. Running files
+The weekly memo is the default place for observations. Use an aid only if it helps answer a specific question; updating these files is never a weekly completion requirement.
 
-These are updated every week, not written once at the end:
-
-| File | What it tracks | Main lenses |
-|---|---|---|
-| `timeline.md` | Every paper, by arXiv v1 date, with author position and phase | L1, L6 |
-| `collaborators.md` | Every co-author: role, first joint paper, number of joint papers | L6 |
-| `lineage-map.md` | A Mermaid graph of "builds on / hands off to" | L3 |
-| researcher-specific trackers | e.g. a hypothesis tracker for a theme you're testing | varies |
-
-## 5. Weekly rhythm (≈8–10 h/week)
-
-| When | What |
+| File | Smallest useful scope |
 |---|---|
-| Sessions 1–3 | Core papers (one per session) |
-| Session 4 | Supporting and context papers |
-| Session 5 | Update the running files and write the week's **phase synthesis** |
+| `reading-list.md` | The source for paper IDs and metadata; already enough for a rough chronology |
+| `timeline.md` | A few important events, overlapping threads, or turning points; no second paper catalog |
+| `collaborators.md` | People whose role changes your interpretation; no all-coauthor census or joint-paper counts |
+| `lineage-map.md` | A few meaningful connections, as bullets, a table, or Mermaid; no exhaustive graph |
+| Researcher-specific tracker | Evidence for and against one hypothesis; skip unrelated papers and empty cells |
 
-## 6. Final deliverables (per researcher)
+Full venue verification, annual citation trajectories, author-position counts, and conference-deadline research are optional. Check facts when they affect a claim you want to make. Leave unresolved details as `[Q]`; stop searching when the writing budget is used.
 
-- `synthesis/story-essay.md`: the PhD story in 1,500–2,500 words ([template](templates/story-essay.md))
-- `synthesis/profile.md`: a one-page researcher profile ([template](templates/researcher-profile.md))
-- `synthesis/lessons.md`: transferable lessons, each with evidence and limits ([template](templates/lessons.md))
-- One row added to [`comparisons.md`](comparisons.md)
+## 5. Weekly rhythm
+
+Read at the assigned depth, then spend **60–90 minutes total on organizing and writing**, including optional notes, tables, and tracker work. Reading time varies by week; this is a writing budget, not a promise that every week fits into 8–10 hours.
+
+For Weeks 1–5, write **one short memo**, roughly half a page if helpful, using the [phase template](templates/phase-synthesis.md). Bullets are enough and there is no word minimum. The assignment narrows the focus; you do not have to answer every lens or story prompt.
+
+- What question or research direction changed?
+- Which papers or source passages support that reading?
+- Which earlier hypothesis changed, or what remains uncertain?
+- What might I carry into my research, and under what limits?
+
+Week 1 puts 2–3 initial hypotheses in its memo. Later memos only revisit them when there is new evidence. Choose **zero or one optional deep dive per week**; put it in the same memo or link to it without repeating the content. Stop when the budget is used. A table may remain incomplete or unused.
+
+## 6. Final deliverable (per researcher)
+
+In the final week, `synthesis/story-essay.md` **replaces the weekly memo**. Reuse the earlier memos in one combined story using the [template](templates/story-essay.md):
+
+- The important research transitions, with evidence and uncertainty.
+- How the thesis's narrative differs from the actual chronology, using a few examples.
+- What happened to the initial hypotheses.
+- Three lessons for my research, each with evidence and limits.
+
+There is no word minimum. A concise draft is complete when it makes these points; no separate chapter map, final phase synthesis, profile, or lessons file is required. The [profile](templates/researcher-profile.md), [lessons](templates/lessons.md), and [cross-researcher comparison](comparisons.md) are optional extracts of work already written, useful if you later want to compare researchers.
