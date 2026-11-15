@@ -1,13 +1,9 @@
-# Transferable Lessons: <Name>
+# Transferable Lessons: <Name> (optional extract)
 
-Write 3–6 lessons. For each one, the evidence must point to specific papers or events, and the "limits" column must be honest. A lesson that only worked because of a particular lab, robot fleet, or moment in the field should say so.
+The final story already contains three lessons. Use this file only if a separate reference is useful; copy those conclusions and their evidence rather than writing a second set. No separate lessons file is required for completion.
 
-| # | Lesson | Evidence (IDs / sources) | Why it worked *for them* | Limits: when it wouldn't work | How I'd apply it in my own research (concrete) |
-|---|---|---|---|---|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+| Lesson | Evidence (IDs / sources) | How I would apply it | Limits on transfer |
+|---|---|---|---|
+| | | | |
 
-## Anti-lessons
-Things that look like lessons but are really survivorship bias or circumstance.
--
+Be specific about constraints such as lab resources, collaborators, timing, and survivorship bias. Link to the final story for the full argument.

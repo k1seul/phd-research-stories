@@ -1,75 +1,19 @@
 # [PXX] <Paper title>
 
-| Field | Value |
-|---|---|
-| Authors | (put the subject in **bold**; keep `*` equal-contribution marks) |
-| Subject's position | first / co-first / middle / last |
-| arXiv v1 date | YYYY-MM-DD |
-| Venue | |
-| Links | [arXiv]() · [project page]() · [code]() |
-| Phase / week | |
-| Date read · time spent | |
+**Optional reading aid.** Use your existing notes or write directly in the weekly memo if that is easier. No separate file or completed form is required. Refer to `reading-list.md` for metadata; add a paper link or section reference where useful.
 
-Tag claims `[F]` fact (with source) · `[I]` interpretation · `[Q]` open question. See METHODOLOGY §2.
+## Technical takeaway
 
----
+- Contribution and key idea, in my words:
+- Evidence that supports the claim:
+- Main limitation or question:
 
-## Paper level
+## Story observation (only if something stands out)
 
-### 1. One-sentence contribution
-> Write this after the survey pass, before reading the method. Revise it at the end if needed.
+What changes relative to earlier work: the question, a reused technique, people, resources, or a new assumption? A few bullets with paper IDs are enough. Use `[F]`, `[I]`, or `[Q]` for important story claims.
 
-### 2. Problem, as a question
+## For me (optional)
 
+One useful idea, a question to resolve, or something I would do differently.
 
-### 3. Key idea, without notation
-
-
-### 4. Method sketch
-(A few bullets or a small diagram. Enough that you could explain it at a whiteboard.)
-
-### 5. Evidence
-- Experiments and what each is meant to show:
-- Strongest result:
-- Weakest link between claim and evidence:
-
-### 6. Limitations
-- Stated by the authors:
-- Noticed by me:
-
----
-
-## Story level
-
-### 7. Why this problem, why now? (L1, L2, L7)
-- What in the subject's earlier work leads here? (cite paper IDs)
-- What in the field made it timely? (cite context papers)
-- What could they **not** have known yet?
-
-### 8. Lineage (L3)
-- **Inherits from** (own / advisors / field):
-- **Hands off to** (later papers by the subject or by others):
-- **Reusable artifacts** (code, dataset, setup, technique):
-
-### 9. Toolbox and research moves (L4, L5)
-- Recurring technique(s):
-- Move(s): Reframe / Unify / Generalize / Transfer / Remove supervision / Scale / Defend-Theory / Tooling
-
-### 10. People (L6)
-- Who is new in this author list? What was their role at the time (undergrad, PhD student, postdoc, faculty, industry)?
-- Anything notable in the acknowledgments or affiliations?
-
-### 11. Reception (L8)
-- Citations (as of YYYY-MM-DD):
-- Reviews (OpenReview link, if any). What did reviewers push on?
-- Notable follow-ups or critiques by others:
-
----
-
-## For me
-
-### 12. Questions I still have
-
-
-### 13. One thing I'd copy, one thing I'd do differently
-
+Copy only the key conclusion into the weekly memo, or link to this note. No routine citation count, author-role lookup, reception report, or full lineage analysis is required for each paper.

@@ -1,28 +1,15 @@
-# Researcher Profile: <Name>
+# Researcher Profile: <Name> (optional extract)
 
-One page. This is what you'll copy into `comparisons.md` and look back at months later.
+Use this only if a short reference will help a future comparison. Copy existing conclusions from `synthesis/story-essay.md`; do not start another research or writing assignment. Fill only useful fields and link to evidence already recorded.
 
-| Field | |
+| Field | Existing conclusion / source |
 |---|---|
-| PhD (place, years) | |
-| Advisors / committee | |
-| Before the PhD | |
-| Right after the PhD | |
-| Thesis title | |
-| North-star question (one line) | |
-| Phases (name + dates) | |
-| Signature contribution | |
-| Dominant research moves | |
-| Recurring toolbox | |
-| Key collaborators | |
-| First → last-author transition (when) | |
-| Biggest pivot and its trigger | |
-| Environment factors that mattered | |
-| Thesis vs. lived story (one line) | |
+| PhD and advisors | |
+| North-star question | |
+| Important research transitions | |
+| Signature method or recurring toolbox | |
+| People or environment that affected a transition | |
+| Thesis narrative vs. chronology | |
+| One lesson and its limits | |
 
-## Three sentences I'd use to describe this PhD to a friend
-1.
-2.
-3.
-
-## One lesson I'm stealing
+No profile is needed to finish the researcher. A useful conclusion can go directly from the final story to `comparisons.md` instead.

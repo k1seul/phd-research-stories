@@ -1,18 +1,9 @@
-# Collaborators
+# Collaborators (optional)
 
-One row per co-author. "Role" means their role **at the time of the first joint paper** (undergrad, MS, PhD, postdoc, faculty, industry). Update it every week.
+Record only people whose role helps explain an important research decision or transition. No all-coauthor census, joint-paper count, or complete affiliation history is required. A paragraph in the weekly memo can replace this file.
 
-| Person | Role at the time | Affiliation | First joint paper (ID) | # joint papers during PhD | Subject's typical position with them | Notes |
-|---|---|---|---|---|---|---|
-| | | | | | | |
+| Person | Relevant role at the time | Evidence (paper IDs / sources) | Why this matters to the story |
+|---|---|---|---|
+| | | | |
 
-## Groups
-- **Advisors / committee**:
-- **Peers (fellow PhD students, postdocs)**:
-- **Mentees (undergrad / MS / junior PhD)**:
-- **Industry / external**:
-
-## Observations
-- When does the subject first appear as last author, and with whom?
-- Which collaborations last across several phases? Which appear once?
-- Who carried a thread forward after the subject stopped being first author on it?
+Author position is a clue, not proof of mentoring or individual contribution. Use acknowledgments or contribution statements where available; keep uncertainty as `[Q]`. Update only when useful, within the weekly writing budget.

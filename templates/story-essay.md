@@ -1,17 +1,27 @@
 # The PhD Story of <Name>
 
-Length: 1,500–2,500 words. Write for a smart reader who knows ML but hasn't read these papers. Every non-obvious claim needs a paper ID or source; tag interpretations `[I]`.
+The **one required final deliverable**, replacing the final week's memo. Reuse earlier phase memos; there is no word minimum. Spend **60–90 minutes on organizing and writing** and keep a concise draft when that budget is used. Bullets and small tables are welcome when they help.
 
-## Suggested structure
+Cite paper IDs or sources for important claims, use `[I]` for interpretations, and keep unresolved details as `[Q]`. A separate chapter map, profile, lessons file, or comparison row is optional.
 
-1. **Opening (≈150 words).** The north-star question, stated as you now understand it. Was it present at the start?
-2. **Starting point.** Where they came from, what they inherited from their advisors, and what the first year looked like.
-3. **The phases.** One section per phase: the question it asked, what triggered it, the key papers, and what it handed on. Use the evidence from your phase syntheses.
-4. **The turning point(s).** What was the pivot, and what made it possible (toolbox, people, resources, timing)? Argue for your interpretation and name the strongest alternative explanation.
-5. **The people.** The move from first author to mentor, the important collaborators, and the role of advisors and of environments such as internships.
-6. **The told story vs. the lived story.** How the thesis frames the PhD, compared with the order things actually happened. What was left out, and why do you think it was?
-7. **What I got wrong.** Which of your Week-1 hypotheses survived, and which didn't?
-8. **Closing.** The 2–3 decisions that mattered most, in your judgment.
+## 1. The research direction
 
-## Draft
+What is the north-star question as I now understand it? Was it visible at the beginning, or did it emerge later?
 
+## 2. The important transitions
+
+Choose 2–3 changes in problem, method, people, or environment. For each: what changed, what evidence supports my reading, and what alternative explanation or uncertainty remains? Link to earlier memos for detail.
+
+## 3. The thesis narrative vs. the chronology
+
+Use 2–3 examples of what the thesis reordered, omitted, or reframed. What did that framing gain or lose? No exhaustive chapter-to-paper map is required.
+
+## 4. What happened to my hypotheses?
+
+Refer to the original first-week memo. Mark each initial hypothesis survived, revised, or rejected, with evidence. Include a brief verdict on any researcher-specific hypothesis, with a counterexample or limitation. Preserve the original predictions.
+
+## 5. Three lessons for my research
+
+For each: a specific lesson, the evidence behind it, how I would apply it, and a limit on transferring it to my setting. Keep all three here; a separate lessons file is unnecessary.
+
+The story is complete when it covers these points. Optional extracts can be copied later from this file without another round of research.

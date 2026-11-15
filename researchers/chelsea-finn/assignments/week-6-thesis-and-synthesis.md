@@ -1,60 +1,48 @@
 # Week 6 · The Thesis as Narrative, and the Final Synthesis (2018–2019)
 
-**Estimated time:** ≈10 h · **Main lenses:** L9 Narrative, L1 Timeline, then all of them
+**Writing budget:** 60–90 min beyond reading · **Main lenses:** L9 Narrative, L1 Timeline, then all of them
 
 ## Goals
+
 By the end of this week you should be able to:
-- Compare the **told** story (the thesis) with the **lived** story (your timeline), and explain the differences.
-- Judge your Week-1 hypotheses and the supervision-ledger hypothesis against the evidence.
-- Write the full story as an essay, a one-page profile, and a set of lessons with stated limits.
+
+- Compare the **told** story (the thesis) with the **lived** story (the reading-list dates and earlier memos), and explain the differences.
+- Judge your Week-1 hypotheses and the supervision hypothesis against the evidence.
+- Write one combined story with lessons and their limits, reusing the earlier memos.
 
 ## Readings
 
-| Tier | ID | What | Note file |
+| Tier | ID | What | Recording (separate paper notes optional) |
 |---|---|---|---|
-| Core | T1 | Thesis: read **Ch. 1, 2, 3, 9 in full**; for Ch. 4–8, read each chapter's opening and its discussion section; reread the acknowledgments | `synthesis/thesis-map.md` |
+| Core | T1 | Thesis: read **Ch. 1, 2, 3, 9 in full**; for Ch. 4–8, read each chapter's opening and its discussion section; reread the acknowledgments | `synthesis/story-essay.md` |
 | Optional | P35, P36 | Online Meta-Learning; PEARL (the first signals after the thesis) | skims |
 | Optional | P28, P33, P34 | Other papers from the transition period | — |
-| Optional | — | The ICML 2019 meta-learning tutorial by Finn & Levine (watch ≈30 min) | phase synthesis |
+| Optional | — | The ICML 2019 meta-learning tutorial by Finn & Levine (watch ≈30 min) | final story, if useful |
 
-## Tasks
+## Required: one combined final story
 
-1. **Chapter map (≈45 min).** For each thesis chapter and section from 4 to 8, list the paper(s) it is based on, by ID. Then list every **core or supporting PhD paper that isn't in the thesis**.
-   → *Deliverable:* `synthesis/thesis-map.md`
+Complete the assigned thesis reading above. Then reuse the five earlier memos in **`synthesis/story-essay.md`**, using the [combined template](../../../templates/story-essay.md). This file **replaces this week's memo**; no separate phase-6 synthesis or thesis map is needed.
 
-2. **The inclusion rule (≈20 min).** What rule seems to decide what's in and what's out? What does the thesis gain from that choice, and what does it lose? `[I]`
-   → *Deliverable:* a section in `synthesis/thesis-map.md`
+Cover these points concisely, using bullets where helpful:
 
-3. **Told vs. lived (≈1 h).** Build a two-column comparison: on the left the thesis's narrative order (Ch. 1 → 9), on the right the chronological order from `timeline.md`. Where do they diverge most?
-   - Look closely at which papers Ch. 1 cites as examples of the "standard paradigm" it argues against. Do you recognize any of them from your timeline? What does that tell you about how she reframed her own earlier work?
-   → *Deliverable:* `synthesis/phase-6-told-vs-lived.md`
+1. **Research transitions.** What is the north-star question as you now understand it? Which 2–3 changes in question, method, collaborators, or environment mattered most? Give paper IDs or sources and distinguish interpretation from fact.
+2. **Told vs. lived.** Pick 2–3 examples where the thesis's framing or chapter order differs from the chronological record. Explain what the thesis includes, leaves out, or reframes. You do not need to map every chapter and every omitted paper.
+3. **Hypothesis review.** Return to the original hypotheses in `synthesis/phase-1-visuomotor.md`. Mark them survived, revised, or rejected, with evidence. Also give a brief verdict on the supervision hypothesis, including a counterexample or limitation. Preserve the original Week-1 wording.
+4. **Three lessons for my research.** For each, include the evidence, how I would apply it, and a limit on transfer to my setting. These belong in the same story, not a separate assignment.
 
-4. **Hypothesis review (≈30 min).** For each hypothesis in `synthesis/week-1-hypotheses.md`, mark it **survived / revised / rejected**, with evidence (paper IDs). Write this in the phase-6 synthesis, not in the Week-1 file.
+Spend **60–90 minutes total on organizing and writing**. There is no word minimum; reuse earlier text and stop when the key points are clear. Unresolved details can stay `[Q]`. A concise final story is complete without a separate profile, lessons file, comparison row, or tracker verdict.
 
-5. **Ledger verdict (≈30 min).** Complete Part C of [`supervision-ledger.md`](../supervision-ledger.md).
+## Optional deep dive: choose zero or one
 
-6. **Epilogue and fact check (optional, ≈1 h).** Skim P35 and P36. Then browse her arXiv listing for 2019–2020: is the early post-PhD work a continuation or a pivot? While you're at it, **verify the "Afterwards" row** in [`../README.md`](../README.md) (Stanford start date, any interim position, the year of the dissertation award) and correct it.
+- **Chapter map:** make a small paper-to-chapter mapping if a particular inclusion or omission needs checking. Add it to the story or link to it.
+- **Epilogue and fact check:** skim P35/P36, or check a post-PhD detail such as the README's unverified dates against a primary source. Record uncertainty if it remains unresolved.
+- **Reusable extract:** copy an existing conclusion into an optional [profile](../../../templates/researcher-profile.md), [lessons file](../../../templates/lessons.md), or [`comparisons.md`](../../../comparisons.md) when it will help a future comparison. Do not research or rewrite the whole story again.
 
-7. **Final deliverables.**
-   - `synthesis/story-essay.md`: 1,500–2,500 words ([template](../../../templates/story-essay.md))
-   - `synthesis/profile.md`: one page ([template](../../../templates/researcher-profile.md))
-   - `synthesis/lessons.md`: 3–6 lessons, each with evidence and limits ([template](../../../templates/lessons.md))
-   - Fill in the Chelsea Finn row in [`../../../comparisons.md`](../../../comparisons.md)
-
-## Story questions
-Answer these in the essay or the phase-6 synthesis.
-
-1. **North star.** What is the north-star question as *you* now understand it? Is it the same one the thesis states? Was it visible in 2015?
-2. **Decisive decisions.** Which 2–3 decisions mattered most? For each, what made it possible: toolbox, people, environment, or timing?
-3. **Other narrators.** How might the same PhD be told by one of her advisors? By one of her mentees? What would each version emphasize?
-4. **Your errors.** What did you get wrong in Week 1, and *why* did you get it wrong? Was it hindsight, the thesis framing, or something else?
-5. **Limits of transfer.** What about this PhD does **not** carry over to your own situation (lab resources, timing in the field, advisors, robots)? Keep this in mind when you write `lessons.md`.
+Optional work shares the writing budget. It can be skipped entirely.
 
 ## Done when
-- [ ] `synthesis/thesis-map.md`, including the inclusion rule
-- [ ] `synthesis/phase-6-told-vs-lived.md`, including the hypothesis review
-- [ ] Ledger Part C verdict
-- [ ] README "Afterwards" row verified (if you did the epilogue)
-- [ ] `story-essay.md`, `profile.md`, `lessons.md` written
-- [ ] `comparisons.md` row filled in
-- [ ] Root `README.md` status changed to **Done**
+
+- [ ] Assigned thesis reading completed
+- [ ] `synthesis/story-essay.md` covers important transitions, told-vs-lived examples, hypothesis review, and three lessons with evidence and limits
+
+Mark the researcher Done in the README checklists when these are complete. Empty trackers and skipped optional extracts do not block completion.
