@@ -1,23 +1,30 @@
 # Phase 1 memo: end-to-end visuomotor learning (<26/11/16~26/11/22>)
 
-This is the week's **one required written deliverable** for Weeks 1–5. Follow the assignment's focus, using these prompts as a guide. Bullets are fine; roughly half a page may be enough, and there is **no word minimum**.
 
-Spend **60–90 minutes total on organizing and writing**, including optional paper notes, tables, or tracker work. Read at the assigned depth separately. Record a fact once and link to it elsewhere.
+## Thesis reading
 
-## What changed?
+### What is the thesis about?
 
-What question, method, or research direction changed? Cite a few paper IDs or source passages for the important observations. Distinguish `[F]` facts, `[I]` interpretations, and `[Q]` unresolved questions.
+Chelsea Finn's thesis, "Learning to learn with gradients" is about solving meta learning with deep learning methods (gradient learning with large dataset).
+She introduce the classic problem of meta-learning using pre-training and post-training principle that is widely used in deep learning researchs.
+We can see pre-training as phase training with huge amounts of dataset so that the model can generalize to other task settings and post-training as learning phase shich quickly adapt to the new scenarios.
 
-## What changed in my view?
+From the introduction I could see her researches being,
 
-A hypothesis update, a prediction check, or an uncertainty. In Week 1, write **2–3 initial hypotheses** here and preserve their original wording; use later memos for dated updates.
+1. definition of meta-learning
+2. combination of classical meta learning (learning with structures) and deep learning (learning with huge amounts of dataset with gradients)
+3. So what? phase --> deployment in robotics domain
 
 ## What might I use?
 
-A lesson for my research and its limits, if one stands out. Otherwise, leave a question to carry forward.
+전체적으로 스토리가 잡히는것 같음, 결국 연구도 다 기존 연구에서 research 커뮤니티에 도음이 되는 방향임
+
+기존 연구들은 meta-learning problem 에 대한 연구가 있었지만, 정확한 definition 과 classical learning + deep learining의 융합이 부족했다.
+이를 제시하고 so what 부분을 로봇틱스 policy 로 한 느낌
 
 ## Optional deep dive
 
-Choose **zero or one** extra question from the assignment. A small table, a few connections, or a source-backed paragraph can replace corresponding prose. Leave this section unused if the memo uses the budget. Do not repeat it in multiple trackers.
+Important questions
+1. How do she define the "meta learning problem"?
+2. How to combine the classical structure learning method and data-driven deep learning method
 
-In the final week, use `synthesis/story-essay.md` and the final-story template **instead of this memo**. Empty tables and trackers never block completion.
